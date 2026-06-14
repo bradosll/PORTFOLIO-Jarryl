@@ -1763,7 +1763,7 @@ button {
     .about-image-wrapper {
         order: -1;
     }
-    .certificates-grid {
+    .certificates-grid, .projects-grid {
         grid-template-columns: 1fr 1fr;
         gap: 24px;
     }
@@ -1870,7 +1870,7 @@ button {
         grid-template-columns: repeat(2, 1fr);
     }
     
-    .certificates-grid {
+    .certificates-grid, .projects-grid {
         grid-template-columns: 1fr;
     }
 
